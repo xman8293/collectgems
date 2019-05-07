@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "baoxiang.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "font15_o": {
+      "__uuid__": "20e81ca3-c176-4837-ada5-2b514a074a92"
+    },
+    "font34_H": {
+      "__uuid__": "f696ecf4-b888-4759-bc1b-2a6009c9b262"
+    },
+    "font39_M": {
+      "__uuid__": "92da099f-b813-430a-886f-47eaf418e80c"
+    },
+    "font40_N": {
+      "__uuid__": "173c56f0-df87-4126-bc95-38bf80cfbd61"
+    },
+    "font42_P": {
+      "__uuid__": "95f0cb7e-34f6-48e5-b671-8a2f5d550434"
+    }
+  }
+}

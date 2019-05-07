@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Rectangle 8 copy 2",
+    "texture": "2d6be873-6b2f-4b7d-bf84-245a6d59829a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      123,
+      105
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      123,
+      105
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "saturday-calendar-daily-page-interface-symbol",
+    "texture": "be7ca74e-46eb-49a5-bd8f-30e4c3d70e0f",
+    "atlas": "",
+    "rect": [
+      9,
+      0,
+      494,
+      512
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

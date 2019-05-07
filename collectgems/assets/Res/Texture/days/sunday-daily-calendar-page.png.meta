@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "66c1370a-da5c-46c2-ac1e-3192a504a4e2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "sunday-daily-calendar-page": {
+      "ver": "1.0.3",
+      "uuid": "9cc148e7-ccf6-496e-966c-5476e1c0802b",
+      "rawTextureUuid": "66c1370a-da5c-46c2-ac1e-3192a504a4e2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 9,
+      "trimY": 0,
+      "width": 494,
+      "height": 512,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game service",
+    "texture": "e52d4ed9-3f86-4b42-baf1-0d4003d13e13",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      30,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      30,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

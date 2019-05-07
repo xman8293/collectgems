@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rama",
+    "texture": "dff84747-53d7-4a90-b3d7-c45f42cec560",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      389,
+      169
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      389,
+      169
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

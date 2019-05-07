@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "headline.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "66": {
+      "__uuid__": "514e81e8-17eb-4e2a-b7b2-e5d5d6c0ecb9"
+    },
+    "collectgems": {
+      "__uuid__": "9dcda6b4-a8dc-447f-a503-82d5f56dabee"
+    },
+    "hi-score": {
+      "__uuid__": "e37feda0-e2ad-4270-91d4-83c78b79e597"
+    },
+    "level complete": {
+      "__uuid__": "7fad194f-2197-4a11-a84c-d6103de42764"
+    },
+    "level select": {
+      "__uuid__": "446e8816-d573-4e5c-aa44-81a2aa41c110"
+    },
+    "map": {
+      "__uuid__": "5fcdfcb5-1bf1-477a-92a8-74aec50dd0a0"
+    },
+    "paused": {
+      "__uuid__": "5e2138e4-b3c1-4bc6-bedd-3a6c153e096b"
+    },
+    "riji": {
+      "__uuid__": "32a9d16a-8379-4724-a13a-0e9147b17e88"
+    },
+    "shop": {
+      "__uuid__": "5f9e6e6a-b324-49f9-b3a8-10cd1cffe541"
+    },
+    "skills": {
+      "__uuid__": "3271db85-7be7-4916-a37a-db00dcd8ba71"
+    },
+    "upgrades": {
+      "__uuid__": "6f021a05-3ee5-4fa4-b09a-c1a80a8301cb"
+    },
+    "warning": {
+      "__uuid__": "0ee59ba7-439b-4437-85b2-a4c8e9ce9c9c"
+    }
+  }
+}

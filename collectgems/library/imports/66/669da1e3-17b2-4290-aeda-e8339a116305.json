@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sucai",
+    "texture": "27c3a8e8-1d25-41ca-88ac-51c071130866",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      204,
+      780
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      208,
+      784
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

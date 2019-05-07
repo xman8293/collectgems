@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b0643700-e392-4918-8f88-d03d4d154413",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "wednesday-calendar-daily-page": {
+      "ver": "1.0.3",
+      "uuid": "63e96396-6c46-4297-8ebb-2c382a0269ce",
+      "rawTextureUuid": "b0643700-e392-4918-8f88-d03d4d154413",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 9,
+      "trimY": 0,
+      "width": 494,
+      "height": 512,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

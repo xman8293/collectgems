@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "friday-daily-calendar-page",
+    "texture": "e8a73623-091a-4e8f-b8d5-a2a3f2787252",
+    "atlas": "",
+    "rect": [
+      9,
+      0,
+      494,
+      512
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

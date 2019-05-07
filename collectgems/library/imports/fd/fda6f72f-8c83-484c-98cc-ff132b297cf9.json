@@ -1,0 +1,143 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui-gameout1.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "font01_a": {
+      "__uuid__": "aebc6ff4-aa57-4c8e-8945-252632d6c8b9"
+    },
+    "font02_b": {
+      "__uuid__": "2dcb0111-669d-44e6-804f-bdef803b041a"
+    },
+    "font03_c": {
+      "__uuid__": "c8772adf-a291-4bc2-95c2-ca54d2dc5205"
+    },
+    "font04_d": {
+      "__uuid__": "f95a33d9-1df9-405f-ad72-5a9bb6df6ee0"
+    },
+    "font05_e": {
+      "__uuid__": "34b7f7e4-0eb3-476a-a14e-97c51e57e6e9"
+    },
+    "font06_f": {
+      "__uuid__": "0c8ae83f-c2e2-4ee3-a697-fd4f5aecf881"
+    },
+    "font07_g": {
+      "__uuid__": "8edbc3bf-6eb2-48b3-be37-539551b530f7"
+    },
+    "font08_h": {
+      "__uuid__": "82aeb650-fa70-498c-8727-bf9a098b08cf"
+    },
+    "font09_i": {
+      "__uuid__": "0378b44f-9c74-492c-a57e-83e947236322"
+    },
+    "font10_j": {
+      "__uuid__": "8b67ed99-6c7e-476b-abac-927bfe0b9f86"
+    },
+    "font11_k": {
+      "__uuid__": "5049ed63-554f-4270-a2d1-708eb740c3dd"
+    },
+    "font12_l": {
+      "__uuid__": "60460d2b-cdc9-40b3-a999-6613a87c0c19"
+    },
+    "font13_m": {
+      "__uuid__": "13d208ea-6785-4f47-8b82-b0c001f43f7c"
+    },
+    "font14_n": {
+      "__uuid__": "b80f1ffb-ded6-4435-bc27-b1ce37042ed1"
+    },
+    "font15_o": {
+      "__uuid__": "024897c1-b382-4380-9bd5-19bacd2ff536"
+    },
+    "font16_p": {
+      "__uuid__": "12d655ab-5c32-489a-942b-0a8a0e0111b9"
+    },
+    "font17_q": {
+      "__uuid__": "ef959bfd-c9de-43fd-8397-feede7d57552"
+    },
+    "font18_r": {
+      "__uuid__": "3fe84d6e-840b-42dc-a436-22caa6c79356"
+    },
+    "font19_s": {
+      "__uuid__": "859c32ad-3b7f-416f-8fc6-aad3f8ce9754"
+    },
+    "font20_t": {
+      "__uuid__": "96c8fd25-263a-4ace-a2ea-6a1f36f46485"
+    },
+    "font21_u": {
+      "__uuid__": "17d823bd-e806-4075-822b-db25e1cf2116"
+    },
+    "font22_v": {
+      "__uuid__": "1d76d921-9a41-44bc-9c28-49d5f022bf30"
+    },
+    "font23_w": {
+      "__uuid__": "33d90af9-fe83-41bc-98f5-ca9727d8b91b"
+    },
+    "font24_x": {
+      "__uuid__": "5fced985-a319-474d-9551-f201c9441a39"
+    },
+    "font25_y": {
+      "__uuid__": "79cbf3ac-c682-435f-ab25-a7c28481dc33"
+    },
+    "font26_z": {
+      "__uuid__": "6ca6e148-5eba-4fd3-b3df-1bb2b052a09a"
+    },
+    "font27_A": {
+      "__uuid__": "192d2e6a-ecd2-468a-95b9-526d90facd28"
+    },
+    "font28_B": {
+      "__uuid__": "4d0c2423-6be0-4764-bf35-fb6af9996dd6"
+    },
+    "font29_C": {
+      "__uuid__": "b4cbddae-c844-4561-ab2b-1c5547e86bca"
+    },
+    "font30_D": {
+      "__uuid__": "d3f51d8e-550b-4275-8c13-803b72ecd6a6"
+    },
+    "font31_E": {
+      "__uuid__": "d430d5ca-49b2-49ce-83ce-5a42fae86533"
+    },
+    "font32_F": {
+      "__uuid__": "1d9d01e7-7679-49fa-b86b-184b17269ca3"
+    },
+    "font33_G": {
+      "__uuid__": "c9761f4c-4460-41ca-bfe8-db7cf7ae6e08"
+    },
+    "font34_H": {
+      "__uuid__": "4d511142-8b1b-4daf-a3e8-e648980c2db2"
+    },
+    "font35_I": {
+      "__uuid__": "09aa0dd8-a694-4eeb-8fc6-1aa948018245"
+    },
+    "font36_J": {
+      "__uuid__": "09442e53-4e37-4089-a500-203f0b4891d7"
+    },
+    "font37_K": {
+      "__uuid__": "de9ba390-2bdf-49ae-a62a-04190aeaf118"
+    },
+    "font38_L": {
+      "__uuid__": "0a772f36-8da2-4593-a0af-59b04c3822dd"
+    },
+    "font39_M": {
+      "__uuid__": "3daf24fc-280e-4468-b134-7b89d2959c93"
+    },
+    "font40_N": {
+      "__uuid__": "2f4e7a72-e2b7-4f74-a340-9f0363e80c2c"
+    },
+    "font41_O": {
+      "__uuid__": "88d0d387-6c25-463b-993d-de7043e4fa19"
+    },
+    "font42_P": {
+      "__uuid__": "4947168c-1878-4289-b646-5aac5ce2b6d5"
+    },
+    "font43_Q": {
+      "__uuid__": "098f331e-e800-4ae3-906b-fa6c3c043981"
+    },
+    "font44_R": {
+      "__uuid__": "d41a0934-9773-4d4c-b238-2eb7bf53c955"
+    },
+    "font45_S": {
+      "__uuid__": "28af6355-e7f2-48e3-be17-f9c82af01adc"
+    }
+  }
+}

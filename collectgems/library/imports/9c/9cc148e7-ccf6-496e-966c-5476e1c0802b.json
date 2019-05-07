@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sunday-daily-calendar-page",
+    "texture": "66c1370a-da5c-46c2-ac1e-3192a504a4e2",
+    "atlas": "",
+    "rect": [
+      9,
+      0,
+      494,
+      512
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

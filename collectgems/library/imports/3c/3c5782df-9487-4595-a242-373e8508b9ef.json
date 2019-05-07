@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Ellipse 4 copy 9",
+    "texture": "53d2cda4-9d66-45a2-b7eb-4ca85f70a1e9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      58,
+      107
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      58,
+      107
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

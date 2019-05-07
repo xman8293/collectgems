@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daytask",
+    "texture": "3affd854-0086-48e3-b080-60474026f9a7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      903,
+      136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      903,
+      136
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "runer-silhouette-running-fast",
+    "texture": "5b5537a2-6ead-443d-a50b-ea992cd4f923",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      102,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      102,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

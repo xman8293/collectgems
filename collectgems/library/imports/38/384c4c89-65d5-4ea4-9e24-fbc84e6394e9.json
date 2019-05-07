@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tuesday-daily-calendar-page",
+    "texture": "194c3ffe-0e52-4bd9-95ce-24814d098b70",
+    "atlas": "",
+    "rect": [
+      9,
+      0,
+      494,
+      512
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

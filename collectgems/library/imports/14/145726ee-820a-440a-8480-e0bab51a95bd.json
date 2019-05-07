@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "smile copy",
+    "texture": "529302ee-f09d-4796-b275-0b97e2d5c8af",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      25,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      25,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

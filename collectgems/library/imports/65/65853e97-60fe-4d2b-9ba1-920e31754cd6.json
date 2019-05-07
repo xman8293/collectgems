@@ -1,0 +1,68 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "sucai.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "gems1": {
+      "__uuid__": "cf55b1db-2810-4b4d-ad4f-494fdf5ce93a"
+    },
+    "gems2": {
+      "__uuid__": "bf4f16cd-c0af-4814-8927-c604c21eed26"
+    },
+    "gems3": {
+      "__uuid__": "77400947-8169-49ce-a25d-4c7ed72477b1"
+    },
+    "gems4": {
+      "__uuid__": "cb757625-797f-467a-84a0-3ca186bd6548"
+    },
+    "gems5": {
+      "__uuid__": "d5056d10-a8d8-4b81-b026-833ee309dd07"
+    },
+    "gems6": {
+      "__uuid__": "608b9abc-786f-43a2-ac20-bcb8b85df03f"
+    },
+    "gems7": {
+      "__uuid__": "686317a0-d790-445f-9272-a8ac3057cdca"
+    },
+    "gems8": {
+      "__uuid__": "c3835791-2c03-4bbc-bf3c-4250065810c1"
+    },
+    "gems9": {
+      "__uuid__": "c4a4d14f-06e9-497d-86f5-5189d7def88f"
+    },
+    "lion1": {
+      "__uuid__": "253b1d79-1785-47c6-ba12-040e11e85afa"
+    },
+    "lion10": {
+      "__uuid__": "1171e2e4-0e08-4040-be2a-2ca1e8cd1ff3"
+    },
+    "lion2": {
+      "__uuid__": "0e14326e-ed1a-496d-949d-22429338b3f2"
+    },
+    "lion3": {
+      "__uuid__": "90a32455-0bd5-4466-a8f2-4b1be8233288"
+    },
+    "lion4": {
+      "__uuid__": "fc377e99-f5a8-4c7d-8e31-0949722a51a6"
+    },
+    "lion5": {
+      "__uuid__": "a1a7515a-0cc9-47bb-9bed-ffb451394c8a"
+    },
+    "lion6": {
+      "__uuid__": "a448b3fc-dbf4-42e6-8693-6ff9213262f3"
+    },
+    "lion7": {
+      "__uuid__": "5fd4c3d2-6260-4637-a512-95a96512df61"
+    },
+    "lion8": {
+      "__uuid__": "12b6d822-9c3a-4125-b2f1-029d23eb7ae3"
+    },
+    "lion9": {
+      "__uuid__": "430f1985-7c14-4593-8ca6-5c4a0f57b683"
+    },
+    "lion_happy": {
+      "__uuid__": "2ec60d8c-cb5c-47d9-8229-84e32472a7c0"
+    }
+  }
+}

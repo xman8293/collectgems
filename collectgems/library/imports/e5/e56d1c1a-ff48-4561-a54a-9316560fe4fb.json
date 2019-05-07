@@ -1,0 +1,12 @@
+{
+  "__type__": "cc.LabelAtlas",
+  "_name": "LabelAtlas",
+  "_objFlags": 0,
+  "_native": "",
+  "fntDataStr": "",
+  "spriteFrame": {
+    "__uuid__": "72e11e64-38d9-4e74-a417-2f024d382dea"
+  },
+  "fontSize": 0,
+  "_fntConfig": null
+}

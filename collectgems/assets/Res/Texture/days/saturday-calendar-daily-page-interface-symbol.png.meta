@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "be7ca74e-46eb-49a5-bd8f-30e4c3d70e0f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "saturday-calendar-daily-page-interface-symbol": {
+      "ver": "1.0.3",
+      "uuid": "3dba7449-226b-4ac2-aa90-fc3d6a9f8305",
+      "rawTextureUuid": "be7ca74e-46eb-49a5-bd8f-30e4c3d70e0f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 9,
+      "trimY": 0,
+      "width": 494,
+      "height": 512,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "monday-calendar-page",
+    "texture": "8c6a2b7d-4d10-4b92-9354-d3950b9140f1",
+    "atlas": "",
+    "rect": [
+      9,
+      0,
+      494,
+      512
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

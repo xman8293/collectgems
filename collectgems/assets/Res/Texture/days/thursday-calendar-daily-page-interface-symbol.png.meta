@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "6957b6f0-5e6b-4260-ad47-66a46177ac9b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "thursday-calendar-daily-page-interface-symbol": {
+      "ver": "1.0.3",
+      "uuid": "fef28461-798f-4510-9443-b226b39341f4",
+      "rawTextureUuid": "6957b6f0-5e6b-4260-ad47-66a46177ac9b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 9,
+      "trimY": 0,
+      "width": 494,
+      "height": 512,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

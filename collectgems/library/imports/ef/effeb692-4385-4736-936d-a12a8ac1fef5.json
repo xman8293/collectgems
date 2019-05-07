@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Remove ads",
+    "texture": "829162de-4092-40a4-bd9c-7fc1eadfbe48",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      342,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      342,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

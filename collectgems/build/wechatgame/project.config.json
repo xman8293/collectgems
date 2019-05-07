@@ -1,0 +1,35 @@
+{
+	"description": "项目配置文件。",
+	"cloudfunctionRoot": "./cloud-functions",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": true,
+		"minified": false,
+		"newFeature": false,
+		"autoAudits": false
+	},
+	"compileType": "game",
+	"libVersion": "game",
+	"appid": "wx1ec1b279ba7dca27",
+	"projectname": "66collectgems",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": [],
+			"current": -1
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": []
+		}
+	}
+}
