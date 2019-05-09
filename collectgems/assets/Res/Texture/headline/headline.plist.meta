@@ -9,7 +9,7 @@
   "type": "Texture Packer",
   "subMetas": {
     "66.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "514e81e8-17eb-4e2a-b7b2-e5d5d6c0ecb9",
       "rawTextureUuid": "0b5de735-50d4-44b5-b802-d8ea4f6ab355",
       "trimType": "auto",
@@ -31,7 +31,7 @@
       "subMetas": {}
     },
     "collectgems.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "9dcda6b4-a8dc-447f-a503-82d5f56dabee",
       "rawTextureUuid": "0b5de735-50d4-44b5-b802-d8ea4f6ab355",
       "trimType": "auto",
@@ -53,7 +53,7 @@
       "subMetas": {}
     },
     "hi-score.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "e37feda0-e2ad-4270-91d4-83c78b79e597",
       "rawTextureUuid": "0b5de735-50d4-44b5-b802-d8ea4f6ab355",
       "trimType": "auto",
@@ -75,7 +75,7 @@
       "subMetas": {}
     },
     "level complete.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "7fad194f-2197-4a11-a84c-d6103de42764",
       "rawTextureUuid": "0b5de735-50d4-44b5-b802-d8ea4f6ab355",
       "trimType": "auto",
@@ -97,7 +97,7 @@
       "subMetas": {}
     },
     "level select.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "446e8816-d573-4e5c-aa44-81a2aa41c110",
       "rawTextureUuid": "0b5de735-50d4-44b5-b802-d8ea4f6ab355",
       "trimType": "auto",
@@ -119,7 +119,7 @@
       "subMetas": {}
     },
     "map.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "5fcdfcb5-1bf1-477a-92a8-74aec50dd0a0",
       "rawTextureUuid": "0b5de735-50d4-44b5-b802-d8ea4f6ab355",
       "trimType": "auto",
@@ -141,7 +141,7 @@
       "subMetas": {}
     },
     "paused.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "5e2138e4-b3c1-4bc6-bedd-3a6c153e096b",
       "rawTextureUuid": "0b5de735-50d4-44b5-b802-d8ea4f6ab355",
       "trimType": "auto",
@@ -163,7 +163,7 @@
       "subMetas": {}
     },
     "riji.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "32a9d16a-8379-4724-a13a-0e9147b17e88",
       "rawTextureUuid": "0b5de735-50d4-44b5-b802-d8ea4f6ab355",
       "trimType": "auto",
@@ -185,7 +185,7 @@
       "subMetas": {}
     },
     "shop.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "5f9e6e6a-b324-49f9-b3a8-10cd1cffe541",
       "rawTextureUuid": "0b5de735-50d4-44b5-b802-d8ea4f6ab355",
       "trimType": "auto",
@@ -207,7 +207,7 @@
       "subMetas": {}
     },
     "skills.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "3271db85-7be7-4916-a37a-db00dcd8ba71",
       "rawTextureUuid": "0b5de735-50d4-44b5-b802-d8ea4f6ab355",
       "trimType": "auto",
@@ -229,7 +229,7 @@
       "subMetas": {}
     },
     "upgrades.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "6f021a05-3ee5-4fa4-b09a-c1a80a8301cb",
       "rawTextureUuid": "0b5de735-50d4-44b5-b802-d8ea4f6ab355",
       "trimType": "auto",
@@ -251,7 +251,7 @@
       "subMetas": {}
     },
     "warning.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "0ee59ba7-439b-4437-85b2-a4c8e9ce9c9c",
       "rawTextureUuid": "0b5de735-50d4-44b5-b802-d8ea4f6ab355",
       "trimType": "auto",

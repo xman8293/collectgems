@@ -1,13 +1,14 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.0",
   "uuid": "194c3ffe-0e52-4bd9-95ce-24814d098b70",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "platformSettings": {},
   "subMetas": {
     "tuesday-daily-calendar-page": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "384c4c89-65d5-4ea4-9e24-fbc84e6394e9",
       "rawTextureUuid": "194c3ffe-0e52-4bd9-95ce-24814d098b70",
       "trimType": "auto",

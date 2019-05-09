@@ -1,13 +1,14 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.0",
   "uuid": "829162de-4092-40a4-bd9c-7fc1eadfbe48",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "platformSettings": {},
   "subMetas": {
     "Remove ads": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "effeb692-4385-4736-936d-a12a8ac1fef5",
       "rawTextureUuid": "829162de-4092-40a4-bd9c-7fc1eadfbe48",
       "trimType": "auto",

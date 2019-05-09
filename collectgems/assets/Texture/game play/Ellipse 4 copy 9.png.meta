@@ -1,13 +1,14 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.0",
   "uuid": "53d2cda4-9d66-45a2-b7eb-4ca85f70a1e9",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "platformSettings": {},
   "subMetas": {
     "Ellipse 4 copy 9": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "3c5782df-9487-4595-a242-373e8508b9ef",
       "rawTextureUuid": "53d2cda4-9d66-45a2-b7eb-4ca85f70a1e9",
       "trimType": "auto",

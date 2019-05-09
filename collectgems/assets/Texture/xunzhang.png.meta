@@ -1,13 +1,14 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.0",
   "uuid": "68499398-4729-4543-9685-b9ba4307f281",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "platformSettings": {},
   "subMetas": {
     "xunzhang": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "97f0903b-bc21-46ab-8306-04685b7d4374",
       "rawTextureUuid": "68499398-4729-4543-9685-b9ba4307f281",
       "trimType": "auto",

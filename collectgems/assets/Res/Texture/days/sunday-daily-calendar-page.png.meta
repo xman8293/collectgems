@@ -1,13 +1,14 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.0",
   "uuid": "66c1370a-da5c-46c2-ac1e-3192a504a4e2",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "platformSettings": {},
   "subMetas": {
     "sunday-daily-calendar-page": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "9cc148e7-ccf6-496e-966c-5476e1c0802b",
       "rawTextureUuid": "66c1370a-da5c-46c2-ac1e-3192a504a4e2",
       "trimType": "auto",

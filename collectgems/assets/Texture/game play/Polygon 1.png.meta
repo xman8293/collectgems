@@ -1,13 +1,14 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.0",
   "uuid": "812d0930-6ad4-4681-a58f-c5be2f05e716",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "platformSettings": {},
   "subMetas": {
     "Polygon 1": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "51cdf9a3-1f0d-4cf9-8f3e-9671e3ef27a4",
       "rawTextureUuid": "812d0930-6ad4-4681-a58f-c5be2f05e716",
       "trimType": "auto",

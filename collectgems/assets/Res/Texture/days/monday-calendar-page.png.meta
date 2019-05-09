@@ -1,13 +1,14 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.0",
   "uuid": "8c6a2b7d-4d10-4b92-9354-d3950b9140f1",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "platformSettings": {},
   "subMetas": {
     "monday-calendar-page": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "62eb4741-4ef6-4e84-8c2b-061144279743",
       "rawTextureUuid": "8c6a2b7d-4d10-4b92-9354-d3950b9140f1",
       "trimType": "auto",

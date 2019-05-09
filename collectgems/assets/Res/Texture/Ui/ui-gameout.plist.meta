@@ -9,7 +9,7 @@
   "type": "Texture Packer",
   "subMetas": {
     "font02_b.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "666a33d2-74ef-4b89-a94e-8ae6e05279b3",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -31,7 +31,7 @@
       "subMetas": {}
     },
     "font03_c.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "7668985c-3a57-4a4b-8da4-875cdfa3732b",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -53,7 +53,7 @@
       "subMetas": {}
     },
     "font04_d.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "d8de2f63-ca2f-4930-b861-cd8be3ae3ffc",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -75,7 +75,7 @@
       "subMetas": {}
     },
     "font05_e.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "97fca109-2e19-409e-8cae-cfeeab5e30ec",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -97,7 +97,7 @@
       "subMetas": {}
     },
     "font06_f.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "c8aa24c3-ae0e-43c2-93d5-d0145d9e881b",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -119,7 +119,7 @@
       "subMetas": {}
     },
     "font07_g.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "79cb467c-13b9-46bd-a82c-6e3c3351ca0f",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -141,7 +141,7 @@
       "subMetas": {}
     },
     "font08_h.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "f175ed8a-b94c-4454-ba2a-0061c85ed940",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -163,7 +163,7 @@
       "subMetas": {}
     },
     "font09_i.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "03df0987-a3cf-4e2d-bfe6-646737ff0c04",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -185,7 +185,7 @@
       "subMetas": {}
     },
     "font100_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "d87863cc-8313-4e9d-84da-3f86848532d6",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -207,7 +207,7 @@
       "subMetas": {}
     },
     "font101_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "7e2b394a-f08b-4300-8afe-ac50e7aa86e4",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -229,7 +229,7 @@
       "subMetas": {}
     },
     "font102_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "1755dfe3-639f-442c-842b-edfdb1ce05ed",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -251,7 +251,7 @@
       "subMetas": {}
     },
     "font103_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "0759b36a-1117-41d2-b0cf-d9e1edc3108a",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -273,7 +273,7 @@
       "subMetas": {}
     },
     "font104_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "0cf029ec-5079-4419-8b5d-4333c1abdd84",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -295,7 +295,7 @@
       "subMetas": {}
     },
     "font105_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "4c067554-1b20-410b-8913-0282376f2c8b",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -317,7 +317,7 @@
       "subMetas": {}
     },
     "font106_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "50aaccda-9e8d-408e-add9-622040c54b43",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -339,7 +339,7 @@
       "subMetas": {}
     },
     "font107_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "493750c2-68ce-4985-af56-4c1becffdd09",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -361,7 +361,7 @@
       "subMetas": {}
     },
     "font108_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "6d9357e6-a9ff-4528-90cb-c9db327fe57e",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -383,7 +383,7 @@
       "subMetas": {}
     },
     "font109_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "3cd563af-e1ad-437c-b452-0cf725e214de",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -405,7 +405,7 @@
       "subMetas": {}
     },
     "font10_j.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "43331c7a-792d-4069-918a-e01200c2dfb3",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -427,7 +427,7 @@
       "subMetas": {}
     },
     "font110_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "15098eb7-8ca0-4a60-8cb6-2185e7c238a5",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -449,7 +449,7 @@
       "subMetas": {}
     },
     "font111_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "742469e5-0697-4467-bf52-89e1921c72cf",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -471,7 +471,7 @@
       "subMetas": {}
     },
     "font112_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "37c8d145-efc8-4716-b818-eb0d38d84e22",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -493,7 +493,7 @@
       "subMetas": {}
     },
     "font113_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "c3d0ac58-35f8-4eae-bc08-8e5e9fe3b989",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -515,7 +515,7 @@
       "subMetas": {}
     },
     "font114_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "18f8ad10-dde8-47b1-a5eb-7df915b626d1",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -537,7 +537,7 @@
       "subMetas": {}
     },
     "font115_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "63cfef4e-e458-49c6-88ad-22da13aacf86",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -559,7 +559,7 @@
       "subMetas": {}
     },
     "font116_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "e4a05b0f-9bd3-4c32-bb44-53c0b7613741",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -581,7 +581,7 @@
       "subMetas": {}
     },
     "font117_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "d461540c-6e25-46f8-a6fd-f54eafe57ed5",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -603,7 +603,7 @@
       "subMetas": {}
     },
     "font118_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "b8623843-7eae-4c76-a5d3-8adeabce69aa",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -625,7 +625,7 @@
       "subMetas": {}
     },
     "font119_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "00026e3a-29a0-428b-9566-c0123156484f",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -647,7 +647,7 @@
       "subMetas": {}
     },
     "font11_k.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "3421d8ab-8f0e-4c35-a653-c48556774f0e",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -669,7 +669,7 @@
       "subMetas": {}
     },
     "font120_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "0075f67e-87a6-46ae-b791-6c9e0c73a227",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -691,7 +691,7 @@
       "subMetas": {}
     },
     "font121_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "b69f0bb1-640f-4283-a930-2e91903229e9",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -713,7 +713,7 @@
       "subMetas": {}
     },
     "font122_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "1a061dbc-ef93-4cd4-a9c4-28f3150da0bb",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -735,7 +735,7 @@
       "subMetas": {}
     },
     "font123_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "eb9b3fb7-b93d-48e4-9065-aace6a6b159f",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -757,7 +757,7 @@
       "subMetas": {}
     },
     "font124_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "03af263c-b39e-406d-a219-fce883a686b4",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -779,7 +779,7 @@
       "subMetas": {}
     },
     "font125_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "072b85a9-6f44-4840-a9c0-e2b69ee0067b",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -801,7 +801,7 @@
       "subMetas": {}
     },
     "font126_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "14dd7a1a-80c7-44a0-852e-4c645fcd7797",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -823,7 +823,7 @@
       "subMetas": {}
     },
     "font127_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "f96cea82-91b0-40f5-9efc-ea12b4f0dee8",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -845,7 +845,7 @@
       "subMetas": {}
     },
     "font128_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "b1779960-fade-4ce1-897f-c9cce5a22d7e",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -867,7 +867,7 @@
       "subMetas": {}
     },
     "font129_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "7c9414fe-e85a-473c-898f-165f60b2587f",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -889,7 +889,7 @@
       "subMetas": {}
     },
     "font12_l.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "baaaf2b5-7fbe-448f-ab4e-70de56e484d3",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -911,7 +911,7 @@
       "subMetas": {}
     },
     "font130_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "b9fd7fe2-4599-430e-a31e-81221e333fdb",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -933,7 +933,7 @@
       "subMetas": {}
     },
     "font131_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "fd91cce2-8006-4647-aff6-ea5bd7043a9b",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -955,7 +955,7 @@
       "subMetas": {}
     },
     "font132_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "13f00dfe-1dea-4451-a30c-340e0746b7d1",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -977,7 +977,7 @@
       "subMetas": {}
     },
     "font133_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "14989bc4-e7ec-49f3-a2d3-ee54c0b507ed",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -999,7 +999,7 @@
       "subMetas": {}
     },
     "font134_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "ceff5605-0b2f-40c3-bee3-ca55bc8ce540",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1021,7 +1021,7 @@
       "subMetas": {}
     },
     "font135_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "3b998d1a-6eb8-4810-a1e1-fdda41e2de7a",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1043,7 +1043,7 @@
       "subMetas": {}
     },
     "font136_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "3ce00445-d8a0-4c91-bb81-97d250eb136e",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1065,7 +1065,7 @@
       "subMetas": {}
     },
     "font137_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "08e5a630-cf0d-4b8c-9015-5dd1bacdfe32",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1087,7 +1087,7 @@
       "subMetas": {}
     },
     "font138_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "54f504b3-f06f-432b-9657-d996f48cb1b8",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1109,7 +1109,7 @@
       "subMetas": {}
     },
     "font139_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "c0ff2855-c690-4dcd-9a0c-c2fc1946527e",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1131,7 +1131,7 @@
       "subMetas": {}
     },
     "font13_m.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "f7ed583a-d44a-4dc0-9229-f82f56a896b8",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1153,7 +1153,7 @@
       "subMetas": {}
     },
     "font140_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "4abff585-ae5a-47b3-8f4e-44e37f1a44cb",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1175,7 +1175,7 @@
       "subMetas": {}
     },
     "font141_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "3ee4c3cf-9029-4b8d-b98b-691f45bfeaeb",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1197,7 +1197,7 @@
       "subMetas": {}
     },
     "font142_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "53afc070-54d5-46cb-99b0-0c2ed6369f48",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1219,7 +1219,7 @@
       "subMetas": {}
     },
     "font143_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "7e0be0b3-c915-4d9a-b607-020a2f824de4",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1241,7 +1241,7 @@
       "subMetas": {}
     },
     "font144_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "0be9ac6b-abab-4cb7-a8e1-a8d83b239d58",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1263,7 +1263,7 @@
       "subMetas": {}
     },
     "font145_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "5da1e68f-5d21-4574-b7f0-0c668bc3718b",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1285,7 +1285,7 @@
       "subMetas": {}
     },
     "font146_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "70139d12-e7f3-4c44-b108-0930c9da9c16",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1307,7 +1307,7 @@
       "subMetas": {}
     },
     "font147_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "c1bd8c30-9970-44d8-968f-98bab1b41345",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1329,7 +1329,7 @@
       "subMetas": {}
     },
     "font148_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "10ad2e8e-9c3c-4903-b07c-ff6dac0dbaf9",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1351,7 +1351,7 @@
       "subMetas": {}
     },
     "font149_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "d4d73867-72dc-4b40-ac3c-a674c8c7a6eb",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1373,7 +1373,7 @@
       "subMetas": {}
     },
     "font14_n.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "070d59c3-6492-4236-92af-fd895a5dfc21",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1395,7 +1395,7 @@
       "subMetas": {}
     },
     "font150_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "650e29e5-e39b-4cdc-b7c9-bf925e9334d2",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1417,7 +1417,7 @@
       "subMetas": {}
     },
     "font151_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "be01158d-c84b-42b4-a76b-11be0e7189ca",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1439,7 +1439,7 @@
       "subMetas": {}
     },
     "font152_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "1655d4c1-263a-4488-9b19-9d323163d74c",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1461,7 +1461,7 @@
       "subMetas": {}
     },
     "font153_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "be5ef882-fb9e-40ae-87ae-e6c08699f8c0",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1483,7 +1483,7 @@
       "subMetas": {}
     },
     "font154_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "f7bba75f-36d0-4c17-964e-029711b5483c",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1505,7 +1505,7 @@
       "subMetas": {}
     },
     "font155_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "6daf849a-010a-4fd6-a4f7-c85637b1c3da",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1527,7 +1527,7 @@
       "subMetas": {}
     },
     "font156_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "146b2aeb-a4cf-4677-bc77-39c8360dfb72",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1549,7 +1549,7 @@
       "subMetas": {}
     },
     "font157_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "0428eaa6-00c5-4d76-84d7-0a2541613cb1",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1571,7 +1571,7 @@
       "subMetas": {}
     },
     "font158_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "6ef7e483-b9d8-40a3-a6e1-701a932bc225",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1593,7 +1593,7 @@
       "subMetas": {}
     },
     "font159_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "e1498b95-ddb9-4759-a948-9c403fb1ac2e",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1615,7 +1615,7 @@
       "subMetas": {}
     },
     "font15_o.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "d182b72f-33cc-4a10-8029-34bc92dbed46",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1637,7 +1637,7 @@
       "subMetas": {}
     },
     "font160_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "8421ce98-e27c-4679-bfb4-89c40a2ee194",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1659,7 +1659,7 @@
       "subMetas": {}
     },
     "font161_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "387f287b-fefe-426b-8579-3f32ed1dc990",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1681,7 +1681,7 @@
       "subMetas": {}
     },
     "font162_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "bb6bcb6f-2358-46be-89eb-52f4a42c1f36",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1703,7 +1703,7 @@
       "subMetas": {}
     },
     "font163_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "98b57365-c3ec-4ab2-94b2-e7819ee0a481",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1725,7 +1725,7 @@
       "subMetas": {}
     },
     "font164_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "49ab2b83-2968-468e-aab9-2b6abcbee0d8",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1747,7 +1747,7 @@
       "subMetas": {}
     },
     "font165_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "7c5da88f-f61a-43b5-9204-fe2c9b1c48d1",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1769,7 +1769,7 @@
       "subMetas": {}
     },
     "font166_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "19b635b4-fd68-49d2-ba1a-aa742d2e0eaf",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1791,7 +1791,7 @@
       "subMetas": {}
     },
     "font167_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "f7092a1a-80bd-4ddf-a90c-8e7d984e2a0c",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1813,7 +1813,7 @@
       "subMetas": {}
     },
     "font168_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "bdbf0fc5-83aa-4fe4-b980-05ff843e8c02",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1835,7 +1835,7 @@
       "subMetas": {}
     },
     "font169_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "c0b932f2-8700-4817-a543-d1f20153b9ae",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1857,7 +1857,7 @@
       "subMetas": {}
     },
     "font16_p.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "b1ab760f-2fb1-45b8-98c8-f69a3f2fcb97",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1879,7 +1879,7 @@
       "subMetas": {}
     },
     "font170_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "3bce2e93-b3b1-43f8-b441-2c6a58f9d341",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1901,7 +1901,7 @@
       "subMetas": {}
     },
     "font171_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "6a2be241-d1b1-487e-aed1-d29e052f5d7c",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1923,7 +1923,7 @@
       "subMetas": {}
     },
     "font172_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "40416d2a-c84f-46b4-85cd-51d2e3c8e8ff",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1945,7 +1945,7 @@
       "subMetas": {}
     },
     "font173_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "2d6232f0-8065-4290-a293-096f7a1cddbe",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1967,7 +1967,7 @@
       "subMetas": {}
     },
     "font174_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "8c802ea5-eece-4c42-ae3a-234482cbff92",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -1989,7 +1989,7 @@
       "subMetas": {}
     },
     "font175_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "37daf956-877b-4969-a633-0d5282788caf",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2011,7 +2011,7 @@
       "subMetas": {}
     },
     "font176_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "cdc5f5c9-c47a-4bf2-8127-5da13f1dd572",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2033,7 +2033,7 @@
       "subMetas": {}
     },
     "font177_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "89dd40d8-66f4-4f20-96de-955182bd2fd9",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2055,7 +2055,7 @@
       "subMetas": {}
     },
     "font178_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "126518f1-de21-4337-b470-71a8370f0aa9",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2077,7 +2077,7 @@
       "subMetas": {}
     },
     "font179_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "b12becea-a2a9-45d1-b297-dcae0be1cb71",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2099,7 +2099,7 @@
       "subMetas": {}
     },
     "font17_q.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "79871ff9-1f89-4666-8985-451089b2b51e",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2121,7 +2121,7 @@
       "subMetas": {}
     },
     "font180_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "b2a9f7b4-ac25-481c-b37b-1036efa2b8e7",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2143,7 +2143,7 @@
       "subMetas": {}
     },
     "font181_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "77565c71-21b5-431d-bb14-4d3767e73bdd",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2165,7 +2165,7 @@
       "subMetas": {}
     },
     "font182_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "a31e589a-b127-4b38-a437-6af041b4decc",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2187,7 +2187,7 @@
       "subMetas": {}
     },
     "font183_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "81f4b6f0-ffbc-48af-9434-b105305cc551",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2209,7 +2209,7 @@
       "subMetas": {}
     },
     "font184_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "284c7083-1664-4b35-80e4-a2df65c2f201",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2231,7 +2231,7 @@
       "subMetas": {}
     },
     "font185_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "5b79af3e-8fbc-4b76-9cf5-192d4c8190f5",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2253,7 +2253,7 @@
       "subMetas": {}
     },
     "font186_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "7a4132aa-a798-4384-8e8e-04aa4ea4ec2d",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2275,7 +2275,7 @@
       "subMetas": {}
     },
     "font187_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "f6c04a6f-eaa4-4569-9490-3f325f9333d1",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2297,7 +2297,7 @@
       "subMetas": {}
     },
     "font188_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "eed0d65c-22d1-4462-a4fb-8ef47fb2e873",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2319,7 +2319,7 @@
       "subMetas": {}
     },
     "font189_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "be4cce0a-a772-4958-b9c6-79e7579b7d9f",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2341,7 +2341,7 @@
       "subMetas": {}
     },
     "font18_r.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "c52ed0f9-a84f-4bb2-9a2a-84c91d363cf6",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2363,7 +2363,7 @@
       "subMetas": {}
     },
     "font190_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "24ba9e14-9e40-4878-96fb-bc9121ea57ed",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2385,7 +2385,7 @@
       "subMetas": {}
     },
     "font191_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "a2c33aaa-e25c-43b8-bb19-542883f93ba2",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2407,7 +2407,7 @@
       "subMetas": {}
     },
     "font192_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "422898c8-cc9e-44a8-b050-a177fe4a6a9b",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2429,7 +2429,7 @@
       "subMetas": {}
     },
     "font193_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "4e8522b1-92f4-449f-8cbf-9e434b8273c0",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2451,7 +2451,7 @@
       "subMetas": {}
     },
     "font194_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "aad2362f-f9f9-4f62-b847-f3e9a32e7202",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2473,7 +2473,7 @@
       "subMetas": {}
     },
     "font195_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "fa73cbf1-edb8-4fee-9b7e-b0666d4ae62b",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2495,7 +2495,7 @@
       "subMetas": {}
     },
     "font196_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "acc1b964-80e9-4b34-bea0-0a2048bd69f2",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2517,7 +2517,7 @@
       "subMetas": {}
     },
     "font197_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "b2c146f8-e530-4255-b048-fd994aa04117",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2539,7 +2539,7 @@
       "subMetas": {}
     },
     "font198_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "249a8f9b-fb0b-4fc2-8bd1-71d19936839c",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2561,7 +2561,7 @@
       "subMetas": {}
     },
     "font199_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "c3fe2385-9aaf-40b9-93cb-30e7edb3e5b0",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2583,7 +2583,7 @@
       "subMetas": {}
     },
     "font19_s.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "48619dec-6742-49f2-842f-db541919b59d",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2605,7 +2605,7 @@
       "subMetas": {}
     },
     "font200_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "94928f4f-39a4-4d72-abd0-f7f1addb85b1",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2627,7 +2627,7 @@
       "subMetas": {}
     },
     "font201_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "6db07fc9-2694-4d59-b6bb-2b6d33df33f9",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2649,7 +2649,7 @@
       "subMetas": {}
     },
     "font202_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "622f731a-57f0-479b-aa2c-acfaa67a4650",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2671,7 +2671,7 @@
       "subMetas": {}
     },
     "font203_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "252327b7-06f2-4e00-bfe0-b883b1ddb558",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2693,7 +2693,7 @@
       "subMetas": {}
     },
     "font204_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "014880a4-3266-4681-9a26-bdc1fcd3c788",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2715,7 +2715,7 @@
       "subMetas": {}
     },
     "font205_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "b46bda35-2171-4aff-86fd-3197dfaff0f2",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2737,7 +2737,7 @@
       "subMetas": {}
     },
     "font206_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "68b87fb3-411c-4105-a73c-0e18a923c75b",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2759,7 +2759,7 @@
       "subMetas": {}
     },
     "font207_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "52002780-a52e-4151-b81b-cdcee01bf69b",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2781,7 +2781,7 @@
       "subMetas": {}
     },
     "font208_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "8cd2e743-7dc6-401a-94dd-733aeb171d2a",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2803,7 +2803,7 @@
       "subMetas": {}
     },
     "font209_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "f22bce58-7d3b-4ec6-bd9b-1b6907fc759f",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2825,7 +2825,7 @@
       "subMetas": {}
     },
     "font20_t.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "4505a244-d53f-4472-afe8-a0425de2b0a1",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2847,7 +2847,7 @@
       "subMetas": {}
     },
     "font210_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "a6a73bf1-8c1b-4bb0-a52a-508f07344ae2",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2869,7 +2869,7 @@
       "subMetas": {}
     },
     "font211_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "78479860-121b-4249-b1dc-a5c8a43ac454",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2891,7 +2891,7 @@
       "subMetas": {}
     },
     "font212_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "6e680c94-df91-4bff-b512-72b15822c63f",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2913,7 +2913,7 @@
       "subMetas": {}
     },
     "font21_u.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "64a794a4-c22e-4607-b4ed-adf15be069f6",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2935,7 +2935,7 @@
       "subMetas": {}
     },
     "font22_v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "e2687ced-4ec1-45fa-be08-207bad28f004",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2957,7 +2957,7 @@
       "subMetas": {}
     },
     "font23_w.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "0e606ffe-a82e-486f-a72b-58b3505d43dd",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -2979,7 +2979,7 @@
       "subMetas": {}
     },
     "font24_x.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "3299df13-9dfc-4be4-a264-c3b359e720e7",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3001,7 +3001,7 @@
       "subMetas": {}
     },
     "font25_y.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "0a5d2dca-a165-473b-8a67-73985e101d29",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3023,7 +3023,7 @@
       "subMetas": {}
     },
     "font26_z.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "8db06551-bae4-4130-816e-a15fb2a2234a",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3045,7 +3045,7 @@
       "subMetas": {}
     },
     "font27_A.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "a4c4a563-f7f3-4ab1-ab84-9ef586c93d7d",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3067,7 +3067,7 @@
       "subMetas": {}
     },
     "font28_B.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "59baf784-a223-41c7-9fc6-10b3a08308a3",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3089,7 +3089,7 @@
       "subMetas": {}
     },
     "font29_C.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "42ca8b27-b91d-4bd6-bd4a-eefad6747f04",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3111,7 +3111,7 @@
       "subMetas": {}
     },
     "font30_D.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "6a930524-dc35-41c1-910a-159d5f86baf8",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3133,7 +3133,7 @@
       "subMetas": {}
     },
     "font31_E.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "3cc572f1-01ed-4d85-8e86-2fd272076183",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3155,7 +3155,7 @@
       "subMetas": {}
     },
     "font32_F.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "367b6b09-1e0e-47ec-9f95-40e1d756765c",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3177,7 +3177,7 @@
       "subMetas": {}
     },
     "font33_G.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "7cd2a141-0533-4823-88fd-24626b34f2e0",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3199,7 +3199,7 @@
       "subMetas": {}
     },
     "font34_H.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "c698781b-aec1-47ba-b5b8-6d4acd960c52",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3221,7 +3221,7 @@
       "subMetas": {}
     },
     "font35_I.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "0bb2f413-a816-4ba4-93be-1b5bf3e054a6",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3243,7 +3243,7 @@
       "subMetas": {}
     },
     "font36_J.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "fdca106e-b143-4cfb-92e1-8fb8b26ab3ef",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3265,7 +3265,7 @@
       "subMetas": {}
     },
     "font37_K.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "24eb7798-25ca-413e-8408-afe8e7d79db4",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3287,7 +3287,7 @@
       "subMetas": {}
     },
     "font38_L.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "64776553-7c5c-4b5e-9344-7cf9aba01d09",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3309,7 +3309,7 @@
       "subMetas": {}
     },
     "font39_M.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "6b031812-68cd-4d3d-9f12-c5ad4ebd3cea",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3331,7 +3331,7 @@
       "subMetas": {}
     },
     "font40_N.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "2f04cbb3-e97d-4c20-9aec-0d5ae99dc253",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3353,7 +3353,7 @@
       "subMetas": {}
     },
     "font41_O.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "59b25b9d-ed64-47e2-9792-8223d8d64d06",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3375,7 +3375,7 @@
       "subMetas": {}
     },
     "font42_P.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "1c281b57-f2f7-4324-bf49-588ae30cf008",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3397,7 +3397,7 @@
       "subMetas": {}
     },
     "font43_Q.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "28076511-2ad1-4963-940b-8851f996bf01",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3419,7 +3419,7 @@
       "subMetas": {}
     },
     "font44_R.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "e42affa8-ce3c-4110-8ce0-703a74f7c328",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3441,7 +3441,7 @@
       "subMetas": {}
     },
     "font45_S.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "b3f976ba-190a-46d4-a4d1-c2dea9f43610",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3463,7 +3463,7 @@
       "subMetas": {}
     },
     "font46_T.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "fcc89e57-338b-4271-a579-2c879b8d7f87",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3485,7 +3485,7 @@
       "subMetas": {}
     },
     "font47_U.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "75cd6800-07c0-4ac2-b5c3-7b4f0ffece77",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3507,7 +3507,7 @@
       "subMetas": {}
     },
     "font48_V.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "19e54a15-2350-43c4-9657-577e4d7443b9",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3529,7 +3529,7 @@
       "subMetas": {}
     },
     "font49_W.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "f046b72e-ae56-47f6-9aa6-609f77d92099",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3551,7 +3551,7 @@
       "subMetas": {}
     },
     "font50_X.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "870f58ed-c44d-4e4b-9ca3-b70cb4aed12e",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3573,7 +3573,7 @@
       "subMetas": {}
     },
     "font51_Y.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "4bc2d4ab-9d96-4275-9833-c9238b68fb92",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3595,7 +3595,7 @@
       "subMetas": {}
     },
     "font52_Z.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "327112ac-e917-40be-881d-5a17b36a36bc",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3617,7 +3617,7 @@
       "subMetas": {}
     },
     "font53_0.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "d1285e37-d4cf-479e-be38-1ced8ac659b2",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3639,7 +3639,7 @@
       "subMetas": {}
     },
     "font54_1.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "00946129-eb4f-4fb6-8469-f5b2442ccd30",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3661,7 +3661,7 @@
       "subMetas": {}
     },
     "font55_2.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "324127c5-17ee-4289-ab38-3183110d2c8e",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3683,7 +3683,7 @@
       "subMetas": {}
     },
     "font56_3.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "5f7a142e-5b11-46bc-8af0-12b5191dbb19",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3705,7 +3705,7 @@
       "subMetas": {}
     },
     "font57_4.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "44b99d77-c730-49e0-8ce1-2e4b5584991f",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3727,7 +3727,7 @@
       "subMetas": {}
     },
     "font58_5.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "a5e65749-098a-48bf-b38b-3cc3f7489c4d",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3749,7 +3749,7 @@
       "subMetas": {}
     },
     "font59_6.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "b74de196-9146-4dc5-9a39-d4efc8e67dc0",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3771,7 +3771,7 @@
       "subMetas": {}
     },
     "font60_7.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "ae4cdccc-e834-4c5f-9156-b02a7566bfb3",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3793,7 +3793,7 @@
       "subMetas": {}
     },
     "font61_8.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "aca50e72-0dfb-4ef4-8c5c-2839acc6b043",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3815,7 +3815,7 @@
       "subMetas": {}
     },
     "font62_..png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "1740aa7d-8fe9-4862-b6ab-630695518017",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3837,7 +3837,7 @@
       "subMetas": {}
     },
     "font63_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "59f0af23-3611-4306-a933-6af16799caa6",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3859,7 +3859,7 @@
       "subMetas": {}
     },
     "font64_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "f7eb0fc8-01ea-4079-bb6a-b76eb612f4f8",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3881,7 +3881,7 @@
       "subMetas": {}
     },
     "font65_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "c7101260-18b3-4c16-999a-db0672166643",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3903,7 +3903,7 @@
       "subMetas": {}
     },
     "font66_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "4fc1ff21-efcd-4778-af5a-53406812fe64",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3925,7 +3925,7 @@
       "subMetas": {}
     },
     "font67_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "f360ec12-4615-495b-8073-d7de1a818118",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3947,7 +3947,7 @@
       "subMetas": {}
     },
     "font68_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "f4666c76-48f8-4cf1-89d0-1656a4630f4d",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3969,7 +3969,7 @@
       "subMetas": {}
     },
     "font69_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "d0161c0e-3c94-498a-8fbc-5b67af4b4711",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -3991,7 +3991,7 @@
       "subMetas": {}
     },
     "font70_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "c83af07c-c072-4071-9aff-9fd4306d865f",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4013,7 +4013,7 @@
       "subMetas": {}
     },
     "font71_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "3cff480f-dbc7-4776-b60f-0efd6630bf34",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4035,7 +4035,7 @@
       "subMetas": {}
     },
     "font72_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "c8089b73-7c7e-4173-923a-6b5c1ea230ec",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4057,7 +4057,7 @@
       "subMetas": {}
     },
     "font73_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "3776e392-c317-4066-9648-5b756577f15a",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4079,7 +4079,7 @@
       "subMetas": {}
     },
     "font74_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "8b39f6a8-b328-4a8c-81d7-2dd93bce6cbc",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4101,7 +4101,7 @@
       "subMetas": {}
     },
     "font75_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "807c97b4-a138-410d-a648-22e38e4e03d3",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4123,7 +4123,7 @@
       "subMetas": {}
     },
     "font76_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "fbaff5c2-15e5-4d54-9e6c-d9e91bd8b9be",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4145,7 +4145,7 @@
       "subMetas": {}
     },
     "font77_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "e20d2b5c-86db-44c4-8de0-0fea77d93628",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4167,7 +4167,7 @@
       "subMetas": {}
     },
     "font78_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "69a92b15-95a9-458c-9c95-4867ed1fab7f",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4189,7 +4189,7 @@
       "subMetas": {}
     },
     "font79_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "5e8407bb-cc60-4d40-abf5-ea106488bff9",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4211,7 +4211,7 @@
       "subMetas": {}
     },
     "font80_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "2f27c926-2e6a-4e47-b285-8af011c791cc",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4233,7 +4233,7 @@
       "subMetas": {}
     },
     "font81_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "5d70562d-58cd-41ee-a61d-60f0cdbbc0c6",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4255,7 +4255,7 @@
       "subMetas": {}
     },
     "font82_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "9c4191ee-b9ff-4aac-b4bf-152686d313a0",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4277,7 +4277,7 @@
       "subMetas": {}
     },
     "font83_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "067babfc-08a5-464e-9903-f581c43a2ba3",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4299,7 +4299,7 @@
       "subMetas": {}
     },
     "font84_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "af75d286-9fef-44cc-8fa2-2cf98625870e",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4321,7 +4321,7 @@
       "subMetas": {}
     },
     "font85_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "4cabd5f8-f78b-4670-8b18-28bfc71fca53",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4343,7 +4343,7 @@
       "subMetas": {}
     },
     "font86_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "6a7ad924-05ba-4567-9bee-0d12be00a075",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4365,7 +4365,7 @@
       "subMetas": {}
     },
     "font87_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "6ad96c70-cfb7-45c8-a398-d5c83958340f",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4387,7 +4387,7 @@
       "subMetas": {}
     },
     "font88_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "d869cd34-764a-463b-a3f5-58c5b047edf7",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4409,7 +4409,7 @@
       "subMetas": {}
     },
     "font89_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "fbe8fcad-fe55-4a80-ae98-69f235aba107",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4431,7 +4431,7 @@
       "subMetas": {}
     },
     "font90_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "64b09524-f4d7-4aac-8c88-641b139c6f76",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4453,7 +4453,7 @@
       "subMetas": {}
     },
     "font91_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "bf0c9c6c-6347-43dd-9dd7-09941fd94e5b",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4475,7 +4475,7 @@
       "subMetas": {}
     },
     "font92_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "035746f4-a546-4688-8411-398447926ed1",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4497,7 +4497,7 @@
       "subMetas": {}
     },
     "font93_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "20538bb7-57b6-47a8-9b06-8b6a74b3b671",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4519,7 +4519,7 @@
       "subMetas": {}
     },
     "font94_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "efddd296-217a-4c3a-9379-eb3f93dc4d51",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4541,7 +4541,7 @@
       "subMetas": {}
     },
     "font95_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "9ec1d9ec-b4af-4763-8596-448a92b7624f",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4563,7 +4563,7 @@
       "subMetas": {}
     },
     "font96_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "af213de3-369f-4419-8026-445fc3814da0",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4585,7 +4585,7 @@
       "subMetas": {}
     },
     "font97_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "e18d7299-9e1c-4789-b79b-b5c82a420b1b",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4607,7 +4607,7 @@
       "subMetas": {}
     },
     "font98_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "3ee6d3e2-d3fd-4fd4-84f8-3032bf88d072",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",
@@ -4629,7 +4629,7 @@
       "subMetas": {}
     },
     "font99_@v.png": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "cac71c16-2d66-40d6-a1c7-e812d51b0710",
       "rawTextureUuid": "05756c46-f167-4fa9-98f8-d34dd5116356",
       "trimType": "auto",

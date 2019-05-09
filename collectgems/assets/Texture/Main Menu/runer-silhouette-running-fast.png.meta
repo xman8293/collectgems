@@ -1,13 +1,14 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.0",
   "uuid": "5b5537a2-6ead-443d-a50b-ea992cd4f923",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "platformSettings": {},
   "subMetas": {
     "runer-silhouette-running-fast": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "d22b264f-53c4-4f61-87ec-4ba47fca17b6",
       "rawTextureUuid": "5b5537a2-6ead-443d-a50b-ea992cd4f923",
       "trimType": "auto",

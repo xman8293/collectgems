@@ -1,593 +1,127 @@
-2019-04-30T09:31:52.424Z - normal: Load ~/.CocosCreator/settings.json
-2019-04-30T09:31:52.481Z - normal: Initializing Asset Database
-2019-04-30T09:31:52.485Z - normal: checking language setting...
-2019-04-30T09:31:52.485Z - normal: Language: zh
-2019-04-30T09:31:53.191Z - success: preview server running at http://localhost:7456
-2019-04-30T09:31:53.229Z - success: protocol editor-framework registered
-2019-04-30T09:31:53.229Z - success: protocol app registered
-2019-04-30T09:31:53.229Z - success: protocol theme registered
-2019-04-30T09:31:53.229Z - success: protocol packages registered
-2019-04-30T09:31:53.230Z - success: protocol uuid registerred
-2019-04-30T09:31:53.230Z - success: protocol db registerred
-2019-04-30T09:31:53.230Z - success: protocol thumbnail registerred
-2019-04-30T09:31:53.230Z - success: protocol unpack registerred
-2019-04-30T09:31:53.230Z - success: protocol disable-commonjs registerred
-2019-04-30T09:31:53.341Z - normal: connected!
-2019-04-30T09:31:53.343Z - normal: Check project /Users/cuipeng/Documents/wechatgame/CollectGems
-2019-04-30T09:31:53.345Z - normal: Initializing project /Users/cuipeng/Documents/wechatgame/CollectGems
-2019-04-30T09:31:53.668Z - normal: Initializing Cocos2d
-2019-04-30T09:31:54.337Z - normal: Initializing engine extends
-2019-04-30T09:31:54.405Z - success: asset-db-debugger loaded
-2019-04-30T09:31:54.406Z - success: baidu-adapter loaded
-2019-04-30T09:31:54.407Z - success: color-picker loaded
-2019-04-30T09:31:54.502Z - success: fb-audience-network loaded
-2019-04-30T09:31:54.545Z - success: fb-live-stream loaded
-2019-04-30T09:31:54.549Z - success: google-play-instant loaded
-2019-04-30T09:31:54.555Z - success: huawei-runtime loaded
-2019-04-30T09:31:54.557Z - success: jsb-adapter loaded
-2019-04-30T09:31:54.562Z - success: oppo-runtime loaded
-2019-04-30T09:31:54.574Z - success: package-manager loaded
-2019-04-30T09:31:54.741Z - success: qqplay-adapter loaded
-2019-04-30T09:31:54.744Z - success: runtime-dev-tools loaded
-2019-04-30T09:31:54.756Z - success: sdkbox loaded
-2019-04-30T09:31:54.767Z - success: tester loaded
-2019-04-30T09:31:54.779Z - success: ui-grid loaded
-2019-04-30T09:31:54.791Z - success: ui-kit-preview-extra loaded
-2019-04-30T09:31:54.801Z - success: ui-kit-preview loaded
-2019-04-30T09:31:54.810Z - success: ui-kit loaded
-2019-04-30T09:31:54.820Z - success: ui-tree loaded
-2019-04-30T09:31:54.825Z - success: vivo-runtime loaded
-2019-04-30T09:31:54.826Z - success: weapp-adapter loaded
-2019-04-30T09:31:54.873Z - success: assets loaded
-2019-04-30T09:31:54.882Z - success: builder loaded
-2019-04-30T09:31:55.108Z - success: cocos-services loaded
-2019-04-30T09:31:55.118Z - success: console loaded
-2019-04-30T09:31:55.149Z - success: fb-instant-games loaded
-2019-04-30T09:31:55.153Z - success: google-instant-games loaded
-2019-04-30T09:31:55.166Z - success: hierarchy loaded
-2019-04-30T09:31:55.177Z - success: inspector loaded
-2019-04-30T09:31:55.178Z - success: keystore loaded
-2019-04-30T09:31:55.190Z - success: node-library loaded
-2019-04-30T09:31:55.192Z - success: package-asset loaded
-2019-04-30T09:31:55.194Z - success: preferences loaded
-2019-04-30T09:31:55.206Z - success: project-exporter loaded
-2019-04-30T09:31:55.217Z - success: project-importer loaded
-2019-04-30T09:31:55.229Z - success: project-settings loaded
-2019-04-30T09:31:55.241Z - success: scene loaded
-2019-04-30T09:31:55.242Z - success: simulator-debugger loaded
-2019-04-30T09:31:55.244Z - success: sprite-editor loaded
-2019-04-30T09:31:55.256Z - success: store loaded
-2019-04-30T09:31:55.267Z - success: timeline loaded
-2019-04-30T09:31:56.718Z - normal: Loading packages
-2019-04-30T09:31:56.724Z - normal: Watching packages
-2019-04-30T09:31:56.821Z - normal: Run Application
-2019-04-30T09:31:57.017Z - info: Cocos Services load base data!
-2019-04-30T09:52:46.995Z - normal: Start building with options : {
-  "actualPlatform": "wechatgame",
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "",
-  "appABIs": [],
-  "appBundle": false,
-  "baidugame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "testappid",
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "buildPath": "/Users/cuipeng/Documents/wechatgame/CollectGems/build",
-  "debug": false,
-  "dest": "/Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.helloworld",
-  "platform": "wechatgame",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait",
-    "zip": false
-  },
-  "scenes": [
-    "12819e4d-443b-4a14-ba25-a59e08df25eb",
-    "59540b6c-1387-4935-bbc1-08da807b2912",
-    "ce324fc3-53d4-48f7-a0d9-2b1b27379ef4",
-    "8fe7c523-95d7-4065-83a1-8e39ba5b0100",
-    "7fc446ad-9a8f-44bc-ae09-80895bf2d884"
-  ],
-  "sourceMaps": false,
-  "startScene": "12819e4d-443b-4a14-ba25-a59e08df25eb",
-  "template": "link",
-  "title": "66CollectGems",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx1ec1b279ba7dca27",
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "xxteaKey": "ccece98b-ec52-45",
-  "zipCompressJs": true,
-  "project": "/Users/cuipeng/Documents/wechatgame/CollectGems",
-  "projectName": "66CollectGems",
-  "debugBuildWorker": false
-}
-2019-04-30T09:52:46.999Z - normal: Building /Users/cuipeng/Documents/wechatgame/CollectGems
-2019-04-30T09:52:46.999Z - normal: Destination /Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame
-2019-04-30T09:52:47.117Z - normal: Delete /Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame/subpackages/**/*,/Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame/**/*
-2019-04-30T09:52:48.753Z - normal: Start building assets
-2019-04-30T09:52:48.753Z - normal: Start spawn build-worker
-2019-04-30T09:52:49.352Z - normal: Finish spawn build-worker
-2019-04-30T09:52:49.353Z - normal: Start init build-worker
-2019-04-30T09:52:52.000Z - normal: Finish init build-worker
-2019-04-30T09:52:52.000Z - normal: Start build-assets in worker
-2019-04-30T09:52:52.770Z - normal: Finish build-assets in worker
-2019-04-30T09:52:52.773Z - normal: Finish building assets
-2019-04-30T09:52:52.792Z - normal: Start building plugin scripts
-2019-04-30T09:52:52.830Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2019-04-30T09:52:53.978Z - normal: Built to "/Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame" successfully
-2019-04-30T09:55:59.646Z - normal: Start building with options : {
-  "actualPlatform": "wechatgame",
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "",
-  "appABIs": [],
-  "appBundle": false,
-  "baidugame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "testappid",
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "buildPath": "/Users/cuipeng/Documents/wechatgame/CollectGems/build",
-  "debug": false,
-  "dest": "/Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.helloworld",
-  "platform": "wechatgame",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait",
-    "zip": false
-  },
-  "scenes": [
-    "12819e4d-443b-4a14-ba25-a59e08df25eb",
-    "59540b6c-1387-4935-bbc1-08da807b2912",
-    "ce324fc3-53d4-48f7-a0d9-2b1b27379ef4",
-    "8fe7c523-95d7-4065-83a1-8e39ba5b0100",
-    "7fc446ad-9a8f-44bc-ae09-80895bf2d884"
-  ],
-  "sourceMaps": false,
-  "startScene": "12819e4d-443b-4a14-ba25-a59e08df25eb",
-  "template": "link",
-  "title": "66CollectGems",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx1ec1b279ba7dca27",
-    "orientation": "landscape",
-    "subContext": ""
-  },
-  "xxteaKey": "ccece98b-ec52-45",
-  "zipCompressJs": true,
-  "project": "/Users/cuipeng/Documents/wechatgame/CollectGems",
-  "projectName": "66CollectGems",
-  "debugBuildWorker": false
-}
-2019-04-30T09:55:59.650Z - normal: Building /Users/cuipeng/Documents/wechatgame/CollectGems
-2019-04-30T09:55:59.651Z - normal: Destination /Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame
-2019-04-30T09:55:59.652Z - normal: Delete /Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame/subpackages/**/*,/Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame/**/*
-2019-04-30T09:56:01.343Z - normal: Start building assets
-2019-04-30T09:56:01.343Z - normal: Start spawn build-worker
-2019-04-30T09:56:01.941Z - normal: Finish spawn build-worker
-2019-04-30T09:56:01.941Z - normal: Start init build-worker
-2019-04-30T09:56:04.549Z - normal: Finish init build-worker
-2019-04-30T09:56:04.549Z - normal: Start build-assets in worker
-2019-04-30T09:56:05.107Z - normal: Finish build-assets in worker
-2019-04-30T09:56:05.110Z - normal: Finish building assets
-2019-04-30T09:56:05.128Z - normal: Start building plugin scripts
-2019-04-30T09:56:05.162Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2019-04-30T09:56:06.096Z - normal: Built to "/Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame" successfully
-2019-04-30T10:12:25.704Z - normal: Start building with options : {
-  "actualPlatform": "wechatgame",
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "",
-  "appABIs": [],
-  "appBundle": false,
-  "baidugame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "testappid",
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "buildPath": "/Users/cuipeng/Documents/wechatgame/CollectGems/build",
-  "debug": false,
-  "dest": "/Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.helloworld",
-  "platform": "wechatgame",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait",
-    "zip": false
-  },
-  "scenes": [
-    "12819e4d-443b-4a14-ba25-a59e08df25eb",
-    "59540b6c-1387-4935-bbc1-08da807b2912",
-    "ce324fc3-53d4-48f7-a0d9-2b1b27379ef4",
-    "8fe7c523-95d7-4065-83a1-8e39ba5b0100",
-    "7fc446ad-9a8f-44bc-ae09-80895bf2d884"
-  ],
-  "sourceMaps": false,
-  "startScene": "12819e4d-443b-4a14-ba25-a59e08df25eb",
-  "template": "link",
-  "title": "66CollectGems",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx1ec1b279ba7dca27",
-    "orientation": "landscape",
-    "subContext": ""
-  },
-  "xxteaKey": "ccece98b-ec52-45",
-  "zipCompressJs": true,
-  "project": "/Users/cuipeng/Documents/wechatgame/CollectGems",
-  "projectName": "66CollectGems",
-  "debugBuildWorker": false
-}
-2019-04-30T10:12:25.708Z - normal: Building /Users/cuipeng/Documents/wechatgame/CollectGems
-2019-04-30T10:12:25.708Z - normal: Destination /Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame
-2019-04-30T10:12:25.709Z - normal: Delete /Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame/subpackages/**/*,/Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame/**/*
-2019-04-30T10:12:27.471Z - normal: Start building assets
-2019-04-30T10:12:27.472Z - normal: Start spawn build-worker
-2019-04-30T10:12:28.097Z - normal: Finish spawn build-worker
-2019-04-30T10:12:28.097Z - normal: Start init build-worker
-2019-04-30T10:12:30.823Z - normal: Finish init build-worker
-2019-04-30T10:12:30.823Z - normal: Start build-assets in worker
-2019-04-30T10:12:31.409Z - normal: Finish build-assets in worker
-2019-04-30T10:12:31.412Z - normal: Finish building assets
-2019-04-30T10:12:31.429Z - normal: Start building plugin scripts
-2019-04-30T10:12:31.466Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2019-04-30T10:12:32.452Z - normal: Built to "/Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame" successfully
-2019-04-30T10:17:52.921Z - normal: Start building with options : {
-  "actualPlatform": "wechatgame",
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "",
-  "appABIs": [],
-  "appBundle": false,
-  "baidugame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "testappid",
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "buildPath": "/Users/cuipeng/Documents/wechatgame/CollectGems/build",
-  "debug": false,
-  "dest": "/Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.helloworld",
-  "platform": "wechatgame",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait",
-    "zip": false
-  },
-  "scenes": [
-    "12819e4d-443b-4a14-ba25-a59e08df25eb",
-    "59540b6c-1387-4935-bbc1-08da807b2912",
-    "ce324fc3-53d4-48f7-a0d9-2b1b27379ef4",
-    "8fe7c523-95d7-4065-83a1-8e39ba5b0100",
-    "7fc446ad-9a8f-44bc-ae09-80895bf2d884"
-  ],
-  "sourceMaps": false,
-  "startScene": "12819e4d-443b-4a14-ba25-a59e08df25eb",
-  "template": "link",
-  "title": "66CollectGems",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx1ec1b279ba7dca27",
-    "orientation": "landscape",
-    "subContext": ""
-  },
-  "xxteaKey": "ccece98b-ec52-45",
-  "zipCompressJs": true,
-  "project": "/Users/cuipeng/Documents/wechatgame/CollectGems",
-  "projectName": "66CollectGems",
-  "debugBuildWorker": false
-}
-2019-04-30T10:17:52.926Z - normal: Building /Users/cuipeng/Documents/wechatgame/CollectGems
-2019-04-30T10:17:52.926Z - normal: Destination /Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame
-2019-04-30T10:17:52.927Z - normal: Delete /Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame/subpackages/**/*,/Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame/**/*
-2019-04-30T10:17:54.601Z - normal: Start building assets
-2019-04-30T10:17:54.601Z - normal: Start spawn build-worker
-2019-04-30T10:17:55.223Z - normal: Finish spawn build-worker
-2019-04-30T10:17:55.223Z - normal: Start init build-worker
-2019-04-30T10:17:57.930Z - normal: Finish init build-worker
-2019-04-30T10:17:57.930Z - normal: Start build-assets in worker
-2019-04-30T10:17:58.502Z - normal: Finish build-assets in worker
-2019-04-30T10:17:58.507Z - normal: Finish building assets
-2019-04-30T10:17:58.523Z - normal: Start building plugin scripts
-2019-04-30T10:17:58.562Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2019-04-30T10:17:59.509Z - normal: Built to "/Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame" successfully
-2019-04-30T10:20:19.497Z - normal: Start building with options : {
-  "actualPlatform": "wechatgame",
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "",
-  "appABIs": [],
-  "appBundle": false,
-  "baidugame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "testappid",
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "buildPath": "/Users/cuipeng/Documents/wechatgame/CollectGems/build",
-  "debug": false,
-  "dest": "/Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.helloworld",
-  "platform": "wechatgame",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait",
-    "zip": false
-  },
-  "scenes": [
-    "12819e4d-443b-4a14-ba25-a59e08df25eb",
-    "59540b6c-1387-4935-bbc1-08da807b2912",
-    "ce324fc3-53d4-48f7-a0d9-2b1b27379ef4",
-    "8fe7c523-95d7-4065-83a1-8e39ba5b0100",
-    "7fc446ad-9a8f-44bc-ae09-80895bf2d884"
-  ],
-  "sourceMaps": false,
-  "startScene": "12819e4d-443b-4a14-ba25-a59e08df25eb",
-  "template": "link",
-  "title": "66CollectGems",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx1ec1b279ba7dca27",
-    "orientation": "landscape",
-    "subContext": ""
-  },
-  "xxteaKey": "ccece98b-ec52-45",
-  "zipCompressJs": true,
-  "project": "/Users/cuipeng/Documents/wechatgame/CollectGems",
-  "projectName": "66CollectGems",
-  "debugBuildWorker": false
-}
-2019-04-30T10:20:19.501Z - normal: Building /Users/cuipeng/Documents/wechatgame/CollectGems
-2019-04-30T10:20:19.501Z - normal: Destination /Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame
-2019-04-30T10:20:19.502Z - normal: Delete /Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame/subpackages/**/*,/Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame/**/*
-2019-04-30T10:20:21.190Z - normal: Start building assets
-2019-04-30T10:20:21.190Z - normal: Start spawn build-worker
-2019-04-30T10:20:21.817Z - normal: Finish spawn build-worker
-2019-04-30T10:20:21.818Z - normal: Start init build-worker
-2019-04-30T10:20:24.603Z - normal: Finish init build-worker
-2019-04-30T10:20:24.603Z - normal: Start build-assets in worker
-2019-04-30T10:20:25.161Z - normal: Finish build-assets in worker
-2019-04-30T10:20:25.164Z - normal: Finish building assets
-2019-04-30T10:20:25.182Z - normal: Start building plugin scripts
-2019-04-30T10:20:25.220Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2019-04-30T10:20:26.154Z - normal: Built to "/Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame" successfully
-2019-04-30T10:25:08.188Z - normal: Start building with options : {
-  "actualPlatform": "wechatgame",
-  "android-instant": {
-    "REMOTE_SERVER_ROOT": "",
-    "host": "",
-    "pathPattern": "",
-    "recordPath": "",
-    "scheme": "https",
-    "skipRecord": false
-  },
-  "apiLevel": "",
-  "appABIs": [],
-  "appBundle": false,
-  "baidugame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "testappid",
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "buildPath": "/Users/cuipeng/Documents/wechatgame/CollectGems/build",
-  "debug": false,
-  "dest": "/Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.helloworld",
-  "platform": "wechatgame",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait",
-    "zip": false
-  },
-  "scenes": [
-    "12819e4d-443b-4a14-ba25-a59e08df25eb",
-    "59540b6c-1387-4935-bbc1-08da807b2912",
-    "ce324fc3-53d4-48f7-a0d9-2b1b27379ef4",
-    "8fe7c523-95d7-4065-83a1-8e39ba5b0100",
-    "7fc446ad-9a8f-44bc-ae09-80895bf2d884"
-  ],
-  "sourceMaps": false,
-  "startScene": "12819e4d-443b-4a14-ba25-a59e08df25eb",
-  "template": "link",
-  "title": "66CollectGems",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx1ec1b279ba7dca27",
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "xxteaKey": "ccece98b-ec52-45",
-  "zipCompressJs": true,
-  "project": "/Users/cuipeng/Documents/wechatgame/CollectGems",
-  "projectName": "66CollectGems",
-  "debugBuildWorker": false
-}
-2019-04-30T10:25:08.192Z - normal: Building /Users/cuipeng/Documents/wechatgame/CollectGems
-2019-04-30T10:25:08.192Z - normal: Destination /Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame
-2019-04-30T10:25:08.193Z - normal: Delete /Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame/subpackages/**/*,/Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame/**/*
-2019-04-30T10:25:09.845Z - normal: Start building assets
-2019-04-30T10:25:09.845Z - normal: Start spawn build-worker
-2019-04-30T10:25:10.442Z - normal: Finish spawn build-worker
-2019-04-30T10:25:10.442Z - normal: Start init build-worker
-2019-04-30T10:25:13.018Z - normal: Finish init build-worker
-2019-04-30T10:25:13.020Z - normal: Start build-assets in worker
-2019-04-30T10:25:13.578Z - normal: Finish build-assets in worker
-2019-04-30T10:25:13.581Z - normal: Finish building assets
-2019-04-30T10:25:13.599Z - normal: Start building plugin scripts
-2019-04-30T10:25:13.633Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2019-04-30T10:25:14.569Z - normal: Built to "/Users/cuipeng/Documents/wechatgame/CollectGems/build/wechatgame" successfully
-2019-04-30T10:26:28.711Z - info: shutdown preview server
+2019-05-08T11:38:43.362Z - normal: Load ~/.CocosCreator/settings.json
+2019-05-08T11:38:44.475Z - normal: Initializing Asset Database
+2019-05-08T11:38:44.482Z - normal: checking language setting...
+2019-05-08T11:38:44.482Z - normal: Language: zh
+2019-05-08T11:38:46.375Z - success: preview server running at http://localhost:7456
+2019-05-08T11:38:46.377Z - success: protocol editor-framework registered
+2019-05-08T11:38:46.377Z - success: protocol app registered
+2019-05-08T11:38:46.378Z - success: protocol theme registered
+2019-05-08T11:38:46.378Z - success: protocol packages registered
+2019-05-08T11:38:46.378Z - success: protocol uuid registerred
+2019-05-08T11:38:46.378Z - success: protocol db registerred
+2019-05-08T11:38:46.378Z - success: protocol thumbnail registerred
+2019-05-08T11:38:46.378Z - success: protocol unpack registerred
+2019-05-08T11:38:46.378Z - success: protocol disable-commonjs registerred
+2019-05-08T11:38:46.496Z - normal: connected!
+2019-05-08T11:38:46.498Z - normal: Check project D:\Cocos\collectgems\collectgems\collectgems
+2019-05-08T11:38:46.500Z - normal: Initializing project D:\Cocos\collectgems\collectgems\collectgems
+2019-05-08T11:38:47.051Z - normal: Initializing Cocos2d
+2019-05-08T11:38:49.143Z - normal: Initializing engine extends
+2019-05-08T11:38:49.181Z - success: asset-db-debugger loaded
+2019-05-08T11:38:49.185Z - success: baidu-adapter loaded
+2019-05-08T11:38:49.187Z - success: color-picker loaded
+2019-05-08T11:38:49.406Z - success: fb-audience-network loaded
+2019-05-08T11:38:49.495Z - success: fb-live-stream loaded
+2019-05-08T11:38:49.500Z - success: google-play-instant loaded
+2019-05-08T11:38:49.530Z - success: huawei-runtime loaded
+2019-05-08T11:38:49.532Z - success: jsb-adapter loaded
+2019-05-08T11:38:49.554Z - success: oppo-runtime loaded
+2019-05-08T11:38:49.561Z - success: package-manager loaded
+2019-05-08T11:38:50.031Z - success: qqplay-adapter loaded
+2019-05-08T11:38:50.055Z - success: runtime-dev-tools loaded
+2019-05-08T11:38:50.086Z - success: sdkbox loaded
+2019-05-08T11:38:50.092Z - success: tester loaded
+2019-05-08T11:38:50.109Z - success: ui-grid loaded
+2019-05-08T11:38:50.114Z - success: ui-kit-preview-extra loaded
+2019-05-08T11:38:50.117Z - success: ui-kit-preview loaded
+2019-05-08T11:38:50.133Z - success: ui-kit loaded
+2019-05-08T11:38:50.139Z - success: ui-tree loaded
+2019-05-08T11:38:50.182Z - success: vivo-runtime loaded
+2019-05-08T11:38:50.183Z - success: weapp-adapter loaded
+2019-05-08T11:38:50.250Z - success: assets loaded
+2019-05-08T11:38:50.251Z - success: builder loaded
+2019-05-08T11:38:50.717Z - success: cocos-services loaded
+2019-05-08T11:38:50.720Z - success: console loaded
+2019-05-08T11:38:50.758Z - success: fb-instant-games loaded
+2019-05-08T11:38:50.762Z - success: game-window loaded
+2019-05-08T11:38:50.763Z - success: google-instant-games loaded
+2019-05-08T11:38:50.768Z - success: hierarchy loaded
+2019-05-08T11:38:50.770Z - success: inspector loaded
+2019-05-08T11:38:50.771Z - success: keystore loaded
+2019-05-08T11:38:50.774Z - success: node-library loaded
+2019-05-08T11:38:50.776Z - success: package-asset loaded
+2019-05-08T11:38:50.777Z - success: preferences loaded
+2019-05-08T11:38:50.778Z - success: project-exporter loaded
+2019-05-08T11:38:50.780Z - success: project-importer loaded
+2019-05-08T11:38:50.781Z - success: project-settings loaded
+2019-05-08T11:38:50.786Z - success: scene loaded
+2019-05-08T11:38:50.787Z - success: simulator-debugger loaded
+2019-05-08T11:38:50.788Z - success: sprite-editor loaded
+2019-05-08T11:38:50.792Z - success: store loaded
+2019-05-08T11:38:50.795Z - success: timeline loaded
+2019-05-08T11:38:53.458Z - info: Cocos Services load base data!
+2019-05-08T11:38:57.981Z - warn: [db-task][init] Backup unused meta file: db://assets/Res/Animation.meta
+2019-05-08T11:38:57.982Z - warn: [db-task][init] Backup unused meta file: db://assets/Res/Prefab.meta
+2019-05-08T11:39:12.503Z - normal: Loading packages
+2019-05-08T11:39:12.508Z - normal: Watching packages
+2019-05-08T11:39:12.814Z - normal: Run Application
+2019-05-08T11:43:00.716Z - error: Failed to create asset db://assets/Res/p/New Folder, messages: Error: Parent path D:\Cocos\collectgems\collectgems\collectgems\assets\Res\p is not exists
+    at u.l.create (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\tasks.js:1:18447)
+    at _tasks.r.queue (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\index.js:1:2264)
+    at D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+    at u.o.error (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\utils.js:1:2273)
+    at Object._tasks.push [as callback] (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\interface.js:1:4937)
+    at D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:906:35
+    at _arrayEach (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:85:13)
+    at D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:898:17
+    at D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at u.<anonymous> (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\index.js:1:1883)
+    at u.l.create (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\tasks.js:1:18445)
+    at _tasks.r.queue (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\index.js:1:2264)
+2019-05-08T11:43:28.851Z - error: [db-task][delete] Failed to delete asset undefined, messages: Error: Asset D:\Cocos\collectgems\collectgems\collectgems\assets\Res\p is not exists
+    at D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\tasks.js:1:17459
+    at i.each (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\tasks.js:1:17886)
+    at D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:181:20
+    at Object.async.forEachOf.async.eachOf (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:233:13)
+    at Object.async.forEach.async.each (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:209:22)
+    at u.l.delete (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\tasks.js:1:17389)
+    at _tasks.r.queue (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\index.js:1:2264)
+    at D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at u.o.error (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\utils.js:1:2250)
+    at D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\tasks.js:1:17938
+    at D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\tasks.js:1:17457
+    at i.each (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\tasks.js:1:17886)
+    at D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:181:20
+    at Object.async.forEachOf.async.eachOf (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:233:13)
+    at Object.async.forEach.async.each (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:209:22)
+    at u.l.delete (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\tasks.js:1:17389)
+    at _tasks.r.queue (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\index.js:1:2264)
+2019-05-08T11:51:58.509Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:51:58.751Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:51:58.960Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:51:59.169Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:52:22.600Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:52:22.818Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:52:23.031Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:52:23.240Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:52:23.452Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:52:23.665Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:52:54.870Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:53:11.878Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:55:30.874Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:56:07.263Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:56:07.483Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:56:21.261Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:56:42.168Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:56:50.276Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:57:57.350Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T11:59:26.318Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-08T12:00:07.151Z - info: 只有预制节点 "" 及其子节点会被保存。
+2019-05-09T01:30:02.663Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
+2019-05-09T01:30:06.069Z - info: shutdown preview server

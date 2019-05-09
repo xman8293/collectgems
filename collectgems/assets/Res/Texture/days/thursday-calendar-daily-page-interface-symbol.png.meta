@@ -1,13 +1,14 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.0",
   "uuid": "6957b6f0-5e6b-4260-ad47-66a46177ac9b",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "platformSettings": {},
   "subMetas": {
     "thursday-calendar-daily-page-interface-symbol": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "fef28461-798f-4510-9443-b226b39341f4",
       "rawTextureUuid": "6957b6f0-5e6b-4260-ad47-66a46177ac9b",
       "trimType": "auto",

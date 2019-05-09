@@ -1,13 +1,14 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.0",
   "uuid": "2d6be873-6b2f-4b7d-bf84-245a6d59829a",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "platformSettings": {},
   "subMetas": {
     "Rectangle 8 copy 2": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "2d520b2a-95a4-4ec7-968c-a33a1d458c3b",
       "rawTextureUuid": "2d6be873-6b2f-4b7d-bf84-245a6d59829a",
       "trimType": "auto",

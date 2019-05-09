@@ -1,13 +1,14 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.0",
   "uuid": "d2ed01af-51ab-4e90-b115-96254ce128c3",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "platformSettings": {},
   "subMetas": {
     "achievement": {
-      "ver": "1.0.3",
+      "ver": "1.0.4",
       "uuid": "2c296b88-3931-41ef-bfc1-f589876fad33",
       "rawTextureUuid": "d2ed01af-51ab-4e90-b115-96254ce128c3",
       "trimType": "auto",
