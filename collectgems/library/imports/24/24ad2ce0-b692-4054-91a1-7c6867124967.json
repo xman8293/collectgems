@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "icon.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "basketball": {
+      "__uuid__": "5dc2ed91-fd67-4d7d-be2c-6fbb5e5b9809"
+    },
+    "basketball2": {
+      "__uuid__": "4c2eb03c-c25d-41da-8d72-c9e0f73e5aec"
+    },
+    "drawing": {
+      "__uuid__": "915e86b4-bef1-4833-8216-1f0c539be792"
+    },
+    "english": {
+      "__uuid__": "28a1c5fa-eb1f-4e89-ab46-7b7218941b6c"
+    },
+    "football": {
+      "__uuid__": "aab4cb3d-fbfc-42bb-b8e2-09e0a7ba8802"
+    },
+    "homework": {
+      "__uuid__": "4c392d6d-d222-4f10-ae29-649124ceb8ab"
+    },
+    "math": {
+      "__uuid__": "d6541386-fbff-4422-9dd9-2fe0fe75b634"
+    },
+    "reward": {
+      "__uuid__": "4877f90c-024d-4cd2-a9e4-5eb4a7a50cac"
+    },
+    "school": {
+      "__uuid__": "d4359ba9-1909-4cd3-9ead-09109ee2f57d"
+    },
+    "sleep": {
+      "__uuid__": "2e75f1c5-58ec-4aa9-bf17-66fc3b60f0b7"
+    },
+    "sports": {
+      "__uuid__": "88dae574-78b0-4083-bcfb-d4271f0e883b"
+    },
+    "wakeup": {
+      "__uuid__": "f42b14a3-48f2-4768-9e33-0503df27fd47"
+    },
+    "write": {
+      "__uuid__": "a902cbde-9949-48f7-b4a0-844fe5b34849"
+    }
+  }
+}

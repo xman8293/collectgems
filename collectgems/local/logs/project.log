@@ -1,127 +1,68 @@
-2019-05-08T11:38:43.362Z - normal: Load ~/.CocosCreator/settings.json
-2019-05-08T11:38:44.475Z - normal: Initializing Asset Database
-2019-05-08T11:38:44.482Z - normal: checking language setting...
-2019-05-08T11:38:44.482Z - normal: Language: zh
-2019-05-08T11:38:46.375Z - success: preview server running at http://localhost:7456
-2019-05-08T11:38:46.377Z - success: protocol editor-framework registered
-2019-05-08T11:38:46.377Z - success: protocol app registered
-2019-05-08T11:38:46.378Z - success: protocol theme registered
-2019-05-08T11:38:46.378Z - success: protocol packages registered
-2019-05-08T11:38:46.378Z - success: protocol uuid registerred
-2019-05-08T11:38:46.378Z - success: protocol db registerred
-2019-05-08T11:38:46.378Z - success: protocol thumbnail registerred
-2019-05-08T11:38:46.378Z - success: protocol unpack registerred
-2019-05-08T11:38:46.378Z - success: protocol disable-commonjs registerred
-2019-05-08T11:38:46.496Z - normal: connected!
-2019-05-08T11:38:46.498Z - normal: Check project D:\Cocos\collectgems\collectgems\collectgems
-2019-05-08T11:38:46.500Z - normal: Initializing project D:\Cocos\collectgems\collectgems\collectgems
-2019-05-08T11:38:47.051Z - normal: Initializing Cocos2d
-2019-05-08T11:38:49.143Z - normal: Initializing engine extends
-2019-05-08T11:38:49.181Z - success: asset-db-debugger loaded
-2019-05-08T11:38:49.185Z - success: baidu-adapter loaded
-2019-05-08T11:38:49.187Z - success: color-picker loaded
-2019-05-08T11:38:49.406Z - success: fb-audience-network loaded
-2019-05-08T11:38:49.495Z - success: fb-live-stream loaded
-2019-05-08T11:38:49.500Z - success: google-play-instant loaded
-2019-05-08T11:38:49.530Z - success: huawei-runtime loaded
-2019-05-08T11:38:49.532Z - success: jsb-adapter loaded
-2019-05-08T11:38:49.554Z - success: oppo-runtime loaded
-2019-05-08T11:38:49.561Z - success: package-manager loaded
-2019-05-08T11:38:50.031Z - success: qqplay-adapter loaded
-2019-05-08T11:38:50.055Z - success: runtime-dev-tools loaded
-2019-05-08T11:38:50.086Z - success: sdkbox loaded
-2019-05-08T11:38:50.092Z - success: tester loaded
-2019-05-08T11:38:50.109Z - success: ui-grid loaded
-2019-05-08T11:38:50.114Z - success: ui-kit-preview-extra loaded
-2019-05-08T11:38:50.117Z - success: ui-kit-preview loaded
-2019-05-08T11:38:50.133Z - success: ui-kit loaded
-2019-05-08T11:38:50.139Z - success: ui-tree loaded
-2019-05-08T11:38:50.182Z - success: vivo-runtime loaded
-2019-05-08T11:38:50.183Z - success: weapp-adapter loaded
-2019-05-08T11:38:50.250Z - success: assets loaded
-2019-05-08T11:38:50.251Z - success: builder loaded
-2019-05-08T11:38:50.717Z - success: cocos-services loaded
-2019-05-08T11:38:50.720Z - success: console loaded
-2019-05-08T11:38:50.758Z - success: fb-instant-games loaded
-2019-05-08T11:38:50.762Z - success: game-window loaded
-2019-05-08T11:38:50.763Z - success: google-instant-games loaded
-2019-05-08T11:38:50.768Z - success: hierarchy loaded
-2019-05-08T11:38:50.770Z - success: inspector loaded
-2019-05-08T11:38:50.771Z - success: keystore loaded
-2019-05-08T11:38:50.774Z - success: node-library loaded
-2019-05-08T11:38:50.776Z - success: package-asset loaded
-2019-05-08T11:38:50.777Z - success: preferences loaded
-2019-05-08T11:38:50.778Z - success: project-exporter loaded
-2019-05-08T11:38:50.780Z - success: project-importer loaded
-2019-05-08T11:38:50.781Z - success: project-settings loaded
-2019-05-08T11:38:50.786Z - success: scene loaded
-2019-05-08T11:38:50.787Z - success: simulator-debugger loaded
-2019-05-08T11:38:50.788Z - success: sprite-editor loaded
-2019-05-08T11:38:50.792Z - success: store loaded
-2019-05-08T11:38:50.795Z - success: timeline loaded
-2019-05-08T11:38:53.458Z - info: Cocos Services load base data!
-2019-05-08T11:38:57.981Z - warn: [db-task][init] Backup unused meta file: db://assets/Res/Animation.meta
-2019-05-08T11:38:57.982Z - warn: [db-task][init] Backup unused meta file: db://assets/Res/Prefab.meta
-2019-05-08T11:39:12.503Z - normal: Loading packages
-2019-05-08T11:39:12.508Z - normal: Watching packages
-2019-05-08T11:39:12.814Z - normal: Run Application
-2019-05-08T11:43:00.716Z - error: Failed to create asset db://assets/Res/p/New Folder, messages: Error: Parent path D:\Cocos\collectgems\collectgems\collectgems\assets\Res\p is not exists
-    at u.l.create (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\tasks.js:1:18447)
-    at _tasks.r.queue (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\index.js:1:2264)
-    at D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:987:13
-    at Immediate.process (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:953:21)
-    at runCallback (timers.js:672:20)
-    at tryOnImmediate (timers.js:645:5)
-    at processImmediate [as _immediateCallback] (timers.js:617:5)
-    at u.o.error (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\utils.js:1:2273)
-    at Object._tasks.push [as callback] (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\interface.js:1:4937)
-    at D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:906:35
-    at _arrayEach (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:85:13)
-    at D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:898:17
-    at D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:44:16
-    at u.<anonymous> (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\index.js:1:1883)
-    at u.l.create (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\tasks.js:1:18445)
-    at _tasks.r.queue (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\index.js:1:2264)
-2019-05-08T11:43:28.851Z - error: [db-task][delete] Failed to delete asset undefined, messages: Error: Asset D:\Cocos\collectgems\collectgems\collectgems\assets\Res\p is not exists
-    at D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\tasks.js:1:17459
-    at i.each (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\tasks.js:1:17886)
-    at D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:181:20
-    at Object.async.forEachOf.async.eachOf (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:233:13)
-    at Object.async.forEach.async.each (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:209:22)
-    at u.l.delete (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\tasks.js:1:17389)
-    at _tasks.r.queue (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\index.js:1:2264)
-    at D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:987:13
-    at Immediate.process (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:953:21)
-    at runCallback (timers.js:672:20)
-    at u.o.error (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\utils.js:1:2250)
-    at D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\tasks.js:1:17938
-    at D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\tasks.js:1:17457
-    at i.each (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\tasks.js:1:17886)
-    at D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:181:20
-    at Object.async.forEachOf.async.eachOf (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:233:13)
-    at Object.async.forEach.async.each (D:\CocosCreator_2.1.1\resources\app.asar\node_modules\async\lib\async.js:209:22)
-    at u.l.delete (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\lib\tasks.js:1:17389)
-    at _tasks.r.queue (D:\CocosCreator_2.1.1\resources\app.asar\asset-db\index.js:1:2264)
-2019-05-08T11:51:58.509Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:51:58.751Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:51:58.960Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:51:59.169Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:52:22.600Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:52:22.818Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:52:23.031Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:52:23.240Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:52:23.452Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:52:23.665Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:52:54.870Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:53:11.878Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:55:30.874Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:56:07.263Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:56:07.483Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:56:21.261Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:56:42.168Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:56:50.276Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:57:57.350Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T11:59:26.318Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-08T12:00:07.151Z - info: 只有预制节点 "" 及其子节点会被保存。
-2019-05-09T01:30:02.663Z - info: 只有预制节点 "font15_o" 及其子节点会被保存。
-2019-05-09T01:30:06.069Z - info: shutdown preview server
+2019-05-16T12:22:45.215Z - normal: Load ~/.CocosCreator/settings.json
+2019-05-16T12:22:46.352Z - normal: Initializing Asset Database
+2019-05-16T12:22:46.358Z - normal: checking language setting...
+2019-05-16T12:22:46.358Z - normal: Language: zh
+2019-05-16T12:22:46.903Z - success: preview server running at http://localhost:7456
+2019-05-16T12:22:46.905Z - success: protocol editor-framework registered
+2019-05-16T12:22:46.905Z - success: protocol app registered
+2019-05-16T12:22:46.906Z - success: protocol theme registered
+2019-05-16T12:22:46.906Z - success: protocol packages registered
+2019-05-16T12:22:46.906Z - success: protocol uuid registerred
+2019-05-16T12:22:46.906Z - success: protocol db registerred
+2019-05-16T12:22:46.906Z - success: protocol thumbnail registerred
+2019-05-16T12:22:46.906Z - success: protocol unpack registerred
+2019-05-16T12:22:46.906Z - success: protocol disable-commonjs registerred
+2019-05-16T12:22:47.012Z - normal: connected!
+2019-05-16T12:22:47.016Z - normal: Check project D:\Cocos\collectgems\collectgems\collectgems
+2019-05-16T12:22:47.023Z - normal: Initializing project D:\Cocos\collectgems\collectgems\collectgems
+2019-05-16T12:22:47.382Z - normal: Initializing Cocos2d
+2019-05-16T12:22:48.149Z - normal: Initializing engine extends
+2019-05-16T12:22:48.165Z - success: asset-db-debugger loaded
+2019-05-16T12:22:48.166Z - success: baidu-adapter loaded
+2019-05-16T12:22:48.166Z - success: color-picker loaded
+2019-05-16T12:22:48.240Z - success: fb-audience-network loaded
+2019-05-16T12:22:48.282Z - success: fb-live-stream loaded
+2019-05-16T12:22:48.285Z - success: google-play-instant loaded
+2019-05-16T12:22:48.289Z - success: huawei-runtime loaded
+2019-05-16T12:22:48.290Z - success: jsb-adapter loaded
+2019-05-16T12:22:48.293Z - success: oppo-runtime loaded
+2019-05-16T12:22:48.296Z - success: package-manager loaded
+2019-05-16T12:22:48.398Z - success: qqplay-adapter loaded
+2019-05-16T12:22:48.399Z - success: runtime-dev-tools loaded
+2019-05-16T12:22:48.402Z - success: sdkbox loaded
+2019-05-16T12:22:48.404Z - success: tester loaded
+2019-05-16T12:22:48.406Z - success: ui-grid loaded
+2019-05-16T12:22:48.407Z - success: ui-kit-preview-extra loaded
+2019-05-16T12:22:48.408Z - success: ui-kit-preview loaded
+2019-05-16T12:22:48.410Z - success: ui-kit loaded
+2019-05-16T12:22:48.411Z - success: ui-tree loaded
+2019-05-16T12:22:48.414Z - success: vivo-runtime loaded
+2019-05-16T12:22:48.415Z - success: weapp-adapter loaded
+2019-05-16T12:22:48.448Z - success: assets loaded
+2019-05-16T12:22:48.450Z - success: builder loaded
+2019-05-16T12:22:48.671Z - success: cocos-services loaded
+2019-05-16T12:22:48.674Z - success: console loaded
+2019-05-16T12:22:48.705Z - success: fb-instant-games loaded
+2019-05-16T12:22:48.708Z - success: game-window loaded
+2019-05-16T12:22:48.709Z - success: google-instant-games loaded
+2019-05-16T12:22:48.712Z - success: hierarchy loaded
+2019-05-16T12:22:48.714Z - success: inspector loaded
+2019-05-16T12:22:48.715Z - success: keystore loaded
+2019-05-16T12:22:48.718Z - success: node-library loaded
+2019-05-16T12:22:48.719Z - success: package-asset loaded
+2019-05-16T12:22:48.720Z - success: preferences loaded
+2019-05-16T12:22:48.721Z - success: project-exporter loaded
+2019-05-16T12:22:48.722Z - success: project-importer loaded
+2019-05-16T12:22:48.723Z - success: project-settings loaded
+2019-05-16T12:22:48.727Z - success: scene loaded
+2019-05-16T12:22:48.728Z - success: simulator-debugger loaded
+2019-05-16T12:22:48.729Z - success: sprite-editor loaded
+2019-05-16T12:22:48.734Z - success: store loaded
+2019-05-16T12:22:48.737Z - success: timeline loaded
+2019-05-16T12:22:50.115Z - normal: Loading packages
+2019-05-16T12:22:50.118Z - normal: Watching packages
+2019-05-16T12:22:50.380Z - info: Cocos Services load base data!
+2019-05-16T12:22:50.385Z - normal: Run Application
+2019-05-16T12:46:18.491Z - info: 2e75f1c5-58ec-4aa9-bf17-66fc3b60f0b7 (2edfHFWOxKqb8XZvw7YPC3), db://assets/Res/Texture/icon/icon.plist/sleep.png
+2019-05-16T12:50:45.191Z - info: 4c392d6d-d222-4f10-ae29-649124ceb8ab (4cOS1t0iJPEK4pZJEkzrir), db://assets/Res/Texture/icon/icon.plist/homework.png
+2019-05-17T09:41:24.119Z - info: shutdown preview server

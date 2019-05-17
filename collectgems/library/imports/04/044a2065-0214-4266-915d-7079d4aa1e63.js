@@ -27,9 +27,8 @@ cc.Class({
         }, this);
     },
 
-    updateItem: function updateItem(tmplIndex, TaskInfo) {
+    initializeCard: function initializeCard(tmplIndex, TaskInfo) {
         this.itemID = tmplIndex;
-
         this.TaskTitle = TaskInfo.TaskTitle;
         this.IsGet = TaskInfo.TaskTitle;
         this.GemsCount = TaskInfo.GemsCount;
@@ -38,8 +37,6 @@ cc.Class({
 
         this.labDesc.string = this.TaskTitle;
         cc.log(TaskInfo);
-
-        //this.label.textKey = i18n.t("cases/02_ui/05_scrollView/Item.js.1") + tmplId + ' Item#' + this.itemID;
     },
 
     CompleteTask: function CompleteTask() {
